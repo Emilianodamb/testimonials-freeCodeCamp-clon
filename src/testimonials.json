@@ -1,0 +1,32 @@
+[
+  {
+    "id": 1,
+    "nombre": "Shawn Wang",
+    "pais": "Singapur",
+    "puesto": "Ingeniero de software",
+    "empresa": "Amazon",
+    "testimonio": "Da miedo cambiar de carrera. Solo gané confianza en que podía programar al trabajar con cientos de horas de lecciones gratuitas en freeCodeCamp. En un año conseguí un trabajo con salario de seis cifras como ingeniero de software. freeCodeCamp cambió mi vida.",
+    "imgUrl": "/images/shawn.webp",
+    "imgAlt": "Shawn Wang, un hombre asiático de aspecto joven, sonriendo para una selfie con una montaña nevada al fondo."
+  },
+  {
+    "id": 2,
+    "nombre": "Sarah Chima",
+    "pais": "Nigeria",
+    "puesto": "Ingeniera de software",
+    "empresa": "ChatDesk",
+    "testimonio": "freeCodeCamp fue la puerta de entrada a mi carrera como desarrolladora de software. El plan de estudios bien estructurado llevó mis conocimientos de programación de nivel principiante total a un nivel muy seguro. Fue todo lo que necesitaba para conseguir mi primer trabajo como desarrolladora en una empresa increíble.",
+    "imgUrl": "/images/sarah.webp",
+    "imgAlt": "Sarah Chima, una mujer negra de aspecto joven, sonriendo a la cámara mientras está sentada en una silla."
+  },
+  {
+    "id": 3,
+    "nombre": "Emma Bostian",
+    "pais": "Suecia",
+    "puesto": "Ingeniera de software",
+    "empresa": "Spotify",
+    "testimonio": "Siempre me costó aprender JavaScript. He tomado muchos cursos pero el curso de freeCodeCamp fue el que me quedó. Estudiar JavaScript así como estructuras de datos y algoritmos en freeCodeCamp me dio las habilidades y la confianza que necesitaba para conseguir el trabajo de mis sueños como ingeniera de software en Spotify.",
+    "imgUrl": "/images/emma.webp",
+    "imgAlt": "Emma Bostian, una mujer blanca de aspecto joven, sonriendo a la cámara frente a follaje verde."
+  }
+]

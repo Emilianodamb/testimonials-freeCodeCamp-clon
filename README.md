@@ -17,9 +17,9 @@ El objetivo es replicar la sección de testimonios, incluyendo el diseño, la fu
 -- "Testimonio: {texto}"
 -- "Imagen de perfil"
 
-2. Replicar la estructura en nuestro proyecto. [  ]
+2. Replicar la estructura en nuestro proyecto. [ * ]
 3. Crear fuente de orígen de los datos. [ * ]
-
+4. Replicar estilos con css [ * ]
 
 
 
